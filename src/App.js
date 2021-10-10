@@ -53,6 +53,7 @@ return(
   </div>
   
 )
+//new
 }
 function ColorBox({colors}){
   const styles={
